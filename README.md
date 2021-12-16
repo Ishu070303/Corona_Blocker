@@ -34,7 +34,6 @@ corona_block-chrome-extension
 
 
 Link:
-[chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn]
 
 
 
