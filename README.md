@@ -31,7 +31,33 @@ corona_block-chrome-extension
 ├── style.css
 └── manifest.json
 ```
+in script.js the functions indicate
 
+### replaceText()
+```
+> Replace the Coronavirus text with ----.
+```
+
+### replacePara()
+```
+> cover the paragraph that contain the  Coronavirus text with black box.
+```
+
+### replaceTEXT()
+```
+> Replace the Coronavirus text with black background.
+```
+
+### RemoveText()
+```
+> Remove the paragraph that contains the Coronavirus text.
+```
+
+### HighlightingText()
+```
+> For those who loves the Coronavirus text Can see the text Highlighting with colorfull colours.
+
+```
 
 Link:  [https://chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn](https://chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn) 🔥
 
@@ -39,6 +65,3 @@ Link:  [https://chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn](https:
 
 > Feel free to **contribute** 😍
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change." # Corona_Tracker" 
-
-
-
