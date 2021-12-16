@@ -33,7 +33,7 @@ corona_block-chrome-extension
 ```
 
 
-Link:  [chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn](chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn) 🔥
+Link:  [https://chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn](https://chrome://extensions/?id=plmahaddfnkhakabikebgfhbbpbmmfmn) 🔥
 
 ## Contributing
 
